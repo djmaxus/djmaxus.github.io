@@ -12,4 +12,4 @@ Reduced Order Modeling
 
 Rock Flow Dynamics
 
-## elizarev@phystech.edu
+## [elizarev@phystech.edu](mailto:elizarev@phystech.edu)
