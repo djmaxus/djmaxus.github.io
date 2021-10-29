@@ -12,13 +12,14 @@
 Elizarev, Maksim, Andrei Mukhin, and Aleksey Khlyupin.\
 **Objective-sensitive principal component analysis for high-dimensional inverse problems.**\
 *Computational Geosciences (2021): 1-13.*\
-https://rdcu.be/czZkS
+[https://rdcu.be/czZkS](https://rdcu.be/czZkS)
 > [preprint](https://arxiv.org/abs/2006.04527)
 
 ### Follow
 
  [Google Scholar][ref_scholar] | [ArXiV][ref_arxiv] | [ResearchGate][ref_rgate] |
 :-----------------------------:|:------------------:|:-------------------------:|
+|||
 
 ### Topics
 
