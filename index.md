@@ -3,7 +3,7 @@
 
 > Hi there 👋
 
-![myself](https://github.com/djmaxus/djmaxus.github.io/blob/master/SciPageGitHub.jpeg)
+![myself](https://github.com/djmaxus/djmaxus.github.io/raw/master/SciPageGitHub.jpeg)
 
 ## Research
 
