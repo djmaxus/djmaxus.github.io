@@ -1,4 +1,7 @@
 theme: jekyll-theme-minimal
-title:
+title: djmaxus
 logo: /Logo-CAT.png
 description: Data-Driven Science and Engineering
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
