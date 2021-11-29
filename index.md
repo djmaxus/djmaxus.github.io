@@ -18,7 +18,7 @@ Elizarev, Maksim, Andrei Mukhin, and Aleksey Khlyupin.\
 ### Follow
 
  [Google Scholar][ref:scholar] | [ArXiV][ref:arxiv] | [ResearchGate][ref:rgate] |
-:-----------------------------:|:------------------:|:-------------------------:|
+:-----------------------------|:------------------:|-------------------------:|
 | <img src="https://scholar.google.com/citations/images/avatar_scholar_256.png" alt="scholar" width="128"/> | <img src="https://static.arxiv.org/static/browse/0.3.2.8/images/icons/smileybones-pixel.png" alt="arxiv" width="128"/> | <img src="https://cdn.freelogovectors.net/svg08/researchgate-logo-freelogovectors.net_.svg" alt="rgate" width="128"/> |
 
 ### Topics
