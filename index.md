@@ -17,14 +17,14 @@ Elizarev, Maksim, Andrei Mukhin, and Aleksey Khlyupin.\
 
 ### Follow
 
- [Google Scholar][ref_scholar] | [ArXiV][ref_arxiv] | [ResearchGate][ref_rgate] |
+ [Google Scholar][ref:scholar] | [ArXiV][ref:arxiv] | [ResearchGate][ref:rgate] |
 :-----------------------------:|:------------------:|:-------------------------:|
-|||
+| <img src="https://scholar.google.com/citations/images/avatar_scholar_256.png" alt="scholar" width="128"/> | <img src="https://static.arxiv.org/static/browse/0.3.2.8/images/icons/smileybones-pixel.png" alt="arxiv" width="128"/> | <img src="https://cdn.freelogovectors.net/svg08/researchgate-logo-freelogovectors.net_.svg" alt="rgate" width="128"/> |
 
 ### Topics
 
 * Reduced Order Modeling
-* Computational Mathematics 
+* Computational Mathematics
 * Nonlinear Dynamics
 * Data-Driven Science & Engineering
 
@@ -38,7 +38,10 @@ Elizarev, Maksim, Andrei Mukhin, and Aleksey Khlyupin.\
 
 [Rock Flow Dynamics](https://rfdyn.com/)
 
-[ref_scholar]: https://scholar.google.com/citations?hl=en&authuser=1&user=wvRK6oQAAAAJ
-[ref_arxiv]: http://arxiv.org/a/elizarev_m_1
-[ref_rgate]: https://www.researchgate.net/profile/Maksim_Elizarev
+[ref:scholar]: https://scholar.google.com/citations?hl=en&authuser=1&user=wvRK6oQAAAAJ
+[ref:arxiv]: http://arxiv.org/a/elizarev_m_1
+[ref:rgate]: https://www.researchgate.net/profile/Maksim_Elizarev
 
+[pic:scholar]: https://scholar.google.com/citations/images/avatar_scholar_256.png
+[pic:arxiv]: https://static.arxiv.org/static/browse/0.3.2.8/images/icons/smileybones-pixel.png
+[pic:rgate]: https://cdn.freelogovectors.net/svg08/researchgate-logo-freelogovectors.net_.svg
