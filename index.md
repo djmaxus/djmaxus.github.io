@@ -38,6 +38,32 @@ Elizarev, Maksim, Andrei Mukhin, and Aleksey Khlyupin.\
 
 [Rock Flow Dynamics](https://rfdyn.com/)
 
+## [sandbox] Hidden sections
+
+<details>
+  <summary> 
+    C++
+  </summary>
+
+## Heading
+1. A numbered
+2. list
+   * With some
+   * Sub bullets
+</details>
+
+<details>
+  <summary> 
+    Rust
+  </summary>
+
+## Heading
+1. A numbered
+2. list
+   * With some
+   * Sub bullets
+</details>
+
 [ref:scholar]: https://scholar.google.com/citations?hl=en&authuser=1&user=wvRK6oQAAAAJ
 [ref:arxiv]: http://arxiv.org/a/elizarev_m_1
 [ref:rgate]: https://www.researchgate.net/profile/Maksim_Elizarev
