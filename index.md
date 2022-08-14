@@ -32,6 +32,11 @@ for Well Placement Optimization**\
 * Nonlinear Dynamics
 * Data-Driven Science & Engineering
 
+## Development
+
+- C++
+- Rust | https://crates.io/users/djmaxus
+
 ## Affiliations
 
 ### University
