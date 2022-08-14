@@ -9,11 +9,15 @@
 
 ### Latest
 
-Elizarev, Maksim, Andrei Mukhin, and Aleksey Khlyupin.\
-**Objective-sensitive principal component analysis for high-dimensional inverse problems.**\
+- **Efficient Dimensionality Reduction
+of Nonlinear Fundamental Solution
+for Well Placement Optimization**\
+*Conference Proceedings, ECMOR 2022, Sep 2022, Volume 2022, p.1 - 15*\
+[10.3997/2214-4609.202244060](https://doi.org/10.3997/2214-4609.202244060)
+
+- **Objective-sensitive principal component analysis for high-dimensional inverse problems.**\
 *Computational Geosciences (2021): 1-13.*\
-[https://rdcu.be/czZkS](https://rdcu.be/czZkS)
-> [preprint](https://arxiv.org/abs/2006.04527)
+[https://rdcu.be/czZkS](https://rdcu.be/czZkS) | [preprint](https://arxiv.org/abs/2006.04527)
 
 ### Follow
 
