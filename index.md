@@ -34,8 +34,8 @@ for Well Placement Optimization**\
 
 ## Development
 
-- C++
-- Rust | https://crates.io/users/djmaxus
+* C++
+* [Rust](https://crates.io/users/djmaxus)
 
 ## Affiliations
 
