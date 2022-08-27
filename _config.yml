@@ -1,8 +1,8 @@
 theme: jekyll-theme-minimal
-email: elizarev@phystech.edu
+email: maxim.elizarev.research@gmail.com
 title: djmaxus
 logo: /Logo-CAT.png
-description: Data-Driven Science and Engineering
+description:  R&D in Reducer Order Modeling, Copmutational Mathematics
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
