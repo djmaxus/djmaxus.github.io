@@ -49,11 +49,14 @@ My programming experience includes but is not limited by
 
 ## **Stay In Touch**
 
-[maxim.elizarev.research@gmail.com](mailto:maxim.elizarev.research@gmail.com)
+I am fully open for applied scientific communications and colaborations!
+Consider following my research profiles or contact me directly
 
 | [Google Scholar][ref:scholar] | [ArXiV][ref:arxiv] | [ResearchGate][ref:rgate] |
 |:-----------------------------:|:------------------:|:-------------------------:|
 | <img src="https://scholar.google.com/citations/images/avatar_scholar_256.png" alt="scholar" width="128"/> | <img src="https://static.arxiv.org/static/browse/0.3.2.8/images/icons/smileybones-pixel.png" alt="arxiv" width="128"/> | <img src="https://c5.rgstatic.net/m/433110575315790/images/template/brand-header-logo.svg" alt="rgate" width="128" style="background-color:#28ccbb; padding:10px;"/> |
+
+[maxim.elizarev.research@gmail.com](mailto:maxim.elizarev.research@gmail.com)
 
 [ref:scholar]: https://scholar.google.com/citations?user=qt24IhcAAAAJ
 [ref:arxiv]: http://arxiv.org/a/elizarev_m_1
