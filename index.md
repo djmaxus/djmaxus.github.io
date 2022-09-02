@@ -54,7 +54,7 @@ Consider following my research profiles or contact me directly
 
 | [Google Scholar][ref:scholar] | [ArXiV][ref:arxiv] | [ResearchGate][ref:rgate] |
 |:-----------------------------:|:------------------:|:-------------------------:|
-| <img src="https://scholar.google.com/citations/images/avatar_scholar_256.png" alt="scholar" width="128"/> | <img src="https://static.arxiv.org/static/browse/0.3.2.8/images/icons/smileybones-pixel.png" alt="arxiv" width="128"/> | <img src="https://c5.rgstatic.net/m/433110575315790/images/template/brand-header-logo.svg" alt="rgate" width="128" style="background-color:#28ccbb; padding:10px;"/> |
+| <img src="https://scholar.google.com/citations/images/avatar_scholar_256.png" alt="scholar" width="128"/> | <img src="https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-one-color-white.svg" alt="arxiv" width="128" style="background-color:#b31b1b; padding:10px;"/> | <img src="https://c5.rgstatic.net/m/433110575315790/images/template/brand-header-logo.svg" alt="rgate" width="128" style="background-color:#28ccbb; padding:10px;"/> |
 
 [maxim.elizarev.research@gmail.com](mailto:maxim.elizarev.research@gmail.com)
 
@@ -65,3 +65,4 @@ Consider following my research profiles or contact me directly
 <!-- [pic:scholar]: https://scholar.google.com/citations/images/avatar_scholar_256.png -->
 <!-- [pic:arxiv]: https://static.arxiv.org/static/browse/0.3.2.8/images/icons/smileybones-pixel.png -->
 <!-- [pic:rgate]: https://c5.rgstatic.net/m/433110575315790/images/template/brand-header-logo.svg -->
+<!-- https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-one-color-white.svg -->
