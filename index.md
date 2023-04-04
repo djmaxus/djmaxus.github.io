@@ -5,12 +5,11 @@ My name is Max!
 
 ![myself](https://github.com/djmaxus/djmaxus.github.io/raw/master/SciPageGitHub.jpeg)
 
-- [Maksim Elizarev](#maksim-elizarev)
-  - [Research](#research)
-    - [Latest](#latest)
-  - [Development](#development)
-  - [Affiliations](#affiliations)
-  - [**Stay In Touch**](#stay-in-touch)
+- [Research](#research)
+  - [Latest](#latest)
+- [Development](#development)
+- [Affiliations](#affiliations)
+- [**Stay In Touch**](#stay-in-touch)
 
 ## Research
 
@@ -42,14 +41,14 @@ My programming experience includes but is not limited by
 
 ## Affiliations
 
-- [Moscow Insitute of Physics and Technology](https://mipt.ru/english/)
+- [Moscow Institute of Physics and Technology](https://mipt.ru/english/)
   *Ph. D. Student*
 - [Rock Flow Dynamics](https://rfdyn.com/)
   *C++ Developer / Mathematician*
 
 ## **Stay In Touch**
 
-I am fully open for applied scientific communications and colaborations!
+I am fully open for applied scientific communications and collaborations!
 Consider following my research profiles or contact me directly
 
 | [Google Scholar][ref:scholar] | [ArXiV][ref:arxiv] | [ResearchGate][ref:rgate] |
