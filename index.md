@@ -5,22 +5,27 @@ My name is Max!
 
 ![myself](https://github.com/djmaxus/djmaxus.github.io/raw/master/SciPageGitHub.jpeg)
 
-- [Research](#research)
-  - [Latest](#latest)
-- [Development](#development)
+- [Interests](#interests)
+- [Latest Work](#latest-work)
 - [Affiliations](#affiliations)
-- [**Stay In Touch**](#stay-in-touch)
+- [Stay In Touch](#stay-in-touch)
 
-## Research
+## Interests
 
-Favorite topics for now
+### Applied Sciences
 
-- Reduced Order Modeling
-- Computational Mathematics
-- Nonlinear Dynamics
-- Data-Driven Science & Engineering
+- Computational Mathematics & Physics
+- Flows in Porous Media
+- Data-Driven Reduced Order Modeling
 
-### Latest
+### Scientific Software Engineering
+
+- [Rust](https://crates.io/users/djmaxus)
+- MATLAB
+- C++
+- Python
+
+## Latest Work
 
 - **Efficient Dimensionality Reduction of Nonlinear Fundamental Solution for Well Placement Optimization**\
   _Conference Proceedings, ECMOR 2022, Sep 2022, Volume 2022, p.1 - 15_\
@@ -30,23 +35,18 @@ Favorite topics for now
   _Computational Geosciences (2021): 1-13._\
   [https://rdcu.be/czZkS](https://rdcu.be/czZkS) | [preprint](https://arxiv.org/abs/2006.04527)
 
-## Development
-
-My programming experience includes but is not limited by
-
-- C++
-- Matlab
-- Python
-- [Rust](https://crates.io/users/djmaxus)
-
 ## Affiliations
 
+[Imperial College London](https://www.imperial.ac.uk/subsurface-co2/) _Postdoctoral Research Assistant_
+
+### Former
+
 - [Moscow Institute of Physics and Technology](https://mipt.ru/english/)
-  _Ph. D. Student_
+  _Postgraduate / Master / Bachelor_
 - [Rock Flow Dynamics](https://rfdyn.com/)
   _C++ Developer / Mathematician_
 
-## **Stay In Touch**
+## Stay In Touch
 
 I am fully open for applied scientific communications and collaborations!
 Consider following my research profiles or contact me directly
