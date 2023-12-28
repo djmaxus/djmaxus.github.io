@@ -3,7 +3,7 @@
 Hello there 👋\
 My name is Max!
 
-![myself](https://github.com/djmaxus/djmaxus.github.io/raw/master/SciPageGitHub.jpeg)
+![myself](https://github.com/djmaxus/djmaxus.github.io/raw/master/myself.jpeg)
 
 - [Interests](#interests)
 - [Latest Work](#latest-work)
