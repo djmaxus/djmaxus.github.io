@@ -1,3 +1,9 @@
 {
-    "markdown.extension.toc.levels": "2..2"
+    "markdown.extension.toc.levels": "2..2",
+    "cSpell.words": [
+        "djmaxus",
+        "ECMOR",
+        "Geosciences",
+        "Maksim"
+    ]
 }
