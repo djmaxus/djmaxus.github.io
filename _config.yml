@@ -1,8 +1,6 @@
-theme: jekyll-theme-minimal
-email: maxim.elizarev.research@gmail.com
 title: djmaxus
 logo: /Logo-GitHub.png
-description: Computational Mathematics, Data-Driven Reducer Order Modeling
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
