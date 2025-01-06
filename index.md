@@ -12,6 +12,10 @@
 - Flows in Porous Media
 - Data-Driven Reduced Order Modeling
 
+**Upscaling Algorithm to Preserve Effects of Small-Scale Capillary Heterogeneity: Field-Scale Studies on CO${}_2$ Storage Sites**\
+_17th Greenhouse Gas Control Technologies Conference ([GHGT](https://ghgt.info/)-17)_\
+[10.2139/ssrn.5068897](http://dx.doi.org/10.2139/ssrn.5068897)
+
 **Efficient Dimensionality Reduction of Nonlinear Fundamental Solution for Well Placement Optimization**\
 _Conference Proceedings, ECMOR 2022, Sep 2022, Volume 2022, p.1 - 15_\
 [10.3997/2214-4609.202244060](https://doi.org/10.3997/2214-4609.202244060)
