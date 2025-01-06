@@ -8,7 +8,7 @@
 
 ## Research
 
-- Computational Mathematics & Physics
+- Computational Physics
 - Flows in Porous Media
 - Data-Driven Reduced Order Modeling
 
@@ -20,7 +20,7 @@ _Conference Proceedings, ECMOR 2022, Sep 2022, Volume 2022, p.1 - 15_\
 _Computational Geosciences (2021): 1-13._\
 [https://rdcu.be/czZkS](https://rdcu.be/czZkS) | [preprint](https://arxiv.org/abs/2006.04527)
 
-## Developments
+## Software
 
 - :crab: Rust: [`autodj`](https://github.com/djmaxus/autodj)
 - 🔬 MATLAB: [`StrataTrapper`](https://github.com/ImperialCollegeLondon/StrataTrapper), [`matlab-repo-init`](https://github.com/djmaxus/matlab-repo-init)
