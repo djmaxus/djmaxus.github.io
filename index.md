@@ -12,7 +12,7 @@
 - Flows in Porous Media
 - Data-Driven Reduced Order Modeling
 
-**Upscaling Algorithm to Preserve Effects of Small-Scale Capillary Heterogeneity: Field-Scale Studies on CO${}_2$ Storage Sites**\
+**Upscaling Algorithm to Preserve Effects of Small-Scale Capillary Heterogeneity: Field-Scale Studies on CO2 Storage Sites**\
 _17th Greenhouse Gas Control Technologies Conference ([GHGT](https://ghgt.info/)-17)_\
 [10.2139/ssrn.5068897](http://dx.doi.org/10.2139/ssrn.5068897)
 
