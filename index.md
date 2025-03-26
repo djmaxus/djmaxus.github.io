@@ -27,7 +27,7 @@ _Computational Geosciences (2021): 1-13._\
 ## Software
 
 - :crab: Rust: [`autodj`](https://github.com/djmaxus/autodj)
-- 🔬 MATLAB: [`StrataTrapper`](https://github.com/ImperialCollegeLondon/StrataTrapper), [`matlab-repo-init`](https://github.com/djmaxus/matlab-repo-init)
+- 🔬 MATLAB: [`StrataTrapper`](https://ImperialCollegeLondon.github.io/StrataTrapper), [`matlab-repo-init`](https://djmaxus.github.io/matlab-repo-init)
 - 🦶🔫 C++: [tNavigator](https://rfdyn.com)
 - 🐍 Python
 
