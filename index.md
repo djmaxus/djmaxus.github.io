@@ -4,7 +4,7 @@
 - ex. [Rock Flow Dynamics](https://rfdyn.com/) _Software Developer_
 - [Moscow Institute of Physics and Technology](https://www.mipt.ru/en) _Postgraduate, MSc, BSc_
 
-![myself](https://github.com/djmaxus/djmaxus.github.io/raw/master/myself.jpg)
+<img src="myself.jpg" width=480 alt="logo">
 
 ## Research
 
@@ -27,7 +27,13 @@ _Computational Geosciences (2021): 1-13._\
 ## Software
 
 - :crab: Rust: [`autodj`](https://github.com/djmaxus/autodj)
-- 🔬 MATLAB: [`StrataTrapper`](https://ImperialCollegeLondon.github.io/StrataTrapper), [`matlab-repo-init`](https://djmaxus.github.io/matlab-repo-init)
+- 🔬 MATLAB:
+  - [`StrataTrapper`](https://ImperialCollegeLondon.github.io/StrataTrapper):
+capillary heterogeneity upscaling toolkit
+  - [`matlab-repo-init`](https://djmaxus.github.io/matlab-repo-init):
+template repository with pre-arranged infrastructure
+  - [`par-waitbar`](https://djmaxus.dev/par-waitbar/):
+wrapped `waitbar` to show progress of `parfor` loops
 - 🦶🔫 C++: [tNavigator](https://rfdyn.com)
 - 🐍 Python
 
