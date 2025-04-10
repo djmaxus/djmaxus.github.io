@@ -4,7 +4,7 @@
 - ex. [Rock Flow Dynamics](https://rfdyn.com/) _Software Developer_
 - [Moscow Institute of Physics and Technology](https://www.mipt.ru/en) _Postgraduate, MSc, BSc_
 
-<img src="myself.jpg" width=480 alt="logo">
+<img src="myself.jpg" width=360 alt="logo">
 
 ## Research
 
