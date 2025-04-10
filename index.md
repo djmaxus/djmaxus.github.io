@@ -28,12 +28,9 @@ _Computational Geosciences (2021): 1-13._\
 
 - :crab: Rust: [`autodj`](https://github.com/djmaxus/autodj)
 - 🔬 MATLAB:
-  - [`StrataTrapper`](https://ImperialCollegeLondon.github.io/StrataTrapper):
-capillary heterogeneity upscaling toolkit
-  - [`matlab-repo-init`](https://djmaxus.github.io/matlab-repo-init):
-template repository with pre-arranged infrastructure
-  - [`par-waitbar`](https://djmaxus.dev/par-waitbar/):
-wrapped `waitbar` to show progress of `parfor` loops
+  - [`StrataTrapper`](https://ImperialCollegeLondon.github.io/StrataTrapper): capillary heterogeneity upscaling toolkit
+  - [`matlab-repo-init`](https://djmaxus.github.io/matlab-repo-init): template repository with pre-arranged infrastructure
+  - [`par-waitbar`](https://djmaxus.dev/par-waitbar/): wrapped `waitbar` to show progress of `parfor` loops
 - 🦶🔫 C++: [tNavigator](https://rfdyn.com)
 - 🐍 Python
 
