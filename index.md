@@ -6,6 +6,10 @@
 
 <img src="photo_2026-04-07_21-41-57.jpg" width=360 alt="logo">
 
+## Blogposts
+
+[One year of job search](blog/2026-07-27-year-of-job-search.md)
+
 ## Research
 
 - Computational Physics
