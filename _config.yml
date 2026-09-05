@@ -11,8 +11,5 @@ author: Max Elizarev
 github_username: djmaxus
 linkedin_username: djmaxus
 
-feed:
-  icon: /Logo-GitHub.png
-
 header_pages:
   - about.md
