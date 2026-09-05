@@ -14,11 +14,11 @@ categories: dev
 
   While any LLM can tell you a lot about all the pros and cons, I'm sharing my actual trial and error experience.
 
-{% highlight tex %}
-/section{Header}
+```tex
+\section{Header}
 
 Text
-{% endhighlight %}
+```
 
 ```md
 ## Heading
