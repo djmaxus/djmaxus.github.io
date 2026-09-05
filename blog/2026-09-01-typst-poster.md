@@ -1,4 +1,6 @@
-# It's almost TOO easy to make a poster with Typst
+# It's almost TOO easy to make a  good poster with Typst
+
+[djmaxus.dev](../index.md) _2026-09-01_
 
 ## TL;DR
 
@@ -7,3 +9,25 @@
 - You may going to want to
   - skip LaTeX entirely if you don't know it
   - ditch LaTeX if you're already experienced
+
+  While any LLM can tell you a lot about all the pros and cons, I'm sharing my actual trial and error experience.
+
+```tex
+\section{Heading}
+
+Text
+```
+
+```md
+## Heading
+
+Text
+```
+
+```typ
+== Heading
+
+Text
+```
+
+[![brainmade](../black-logo.svg)](https://brainmade.org/)
