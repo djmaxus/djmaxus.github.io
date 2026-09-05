@@ -10,9 +10,8 @@
 
 or EVO, my brand new blogpost series.
 
-[It's almost TOO easy to make a good poster with Typst](blog/2026-09-01-typst-poster.md)
-
-[One Year of Job Search](blog/2026-07-27-year-of-job-search.md)
+- [It's almost TOO easy to make a good poster with Typst](blog/2026-09-01-typst-poster.md)
+- [One Year of Job Search](blog/2026-07-27-year-of-job-search.md)
 
 [![brainmade](black-logo.svg)](https://brainmade.org/)
 
