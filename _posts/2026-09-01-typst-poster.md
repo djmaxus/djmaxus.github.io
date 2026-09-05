@@ -1,4 +1,7 @@
-# It's almost TOO easy to make a  good poster with Typst
+---
+layout: post
+title: "# It's almost TOO easy to make a good poster with Typst"
+---
 
 ## TL;DR
 

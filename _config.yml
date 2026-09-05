@@ -5,14 +5,14 @@ plugins:
   - jekyll-seo-tag
 
 email: mail@djmaxus.dev
-title: Max Elizarev
-author: djmaxus
+# title: Max Elizarev
+author: Max Elizarev
 
 github_username: djmaxus
 linkedin_username: djmaxus
 
-logo: /Logo-GitHub.png
-avatar: "Logo-GitHub.png"
+feed:
+  icon: /Logo-GitHub.png
 
 header_pages:
   - about.md
