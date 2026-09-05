@@ -13,3 +13,6 @@ linkedin_username: djmaxus
 
 logo: /Logo-GitHub.png
 avatar: "Logo-GitHub.png"
+
+header_pages:
+  - about.md

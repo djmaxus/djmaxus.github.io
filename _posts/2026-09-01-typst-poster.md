@@ -1,7 +1,5 @@
 # It's almost TOO easy to make a  good poster with Typst
 
-[djmaxus.dev](../index.md) _2026-09-01_
-
 ## TL;DR
 
 [github:djmaxus/ecmor-2026/poster](https://github.com/djmaxus/ecmor-2026/tree/main/poster)

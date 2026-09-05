@@ -1,7 +1,5 @@
 # Almost one year, dozens of interviews, zero job offers
 
-[djmaxus.dev](../index.md) _2026-07-27_
-
 This is how the job market has been for me so far.
 
 And some of these patterns occurred more than once:
