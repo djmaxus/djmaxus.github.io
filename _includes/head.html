@@ -1,0 +1,27 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- seo -%}
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  {%- feed_meta -%}
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
+  <script type="module">
+    import { codeToHtml } from 'https://esm.sh/shiki@4';
+    const alias = { typ: 'typst' };
+    for (const code of document.querySelectorAll('pre > code')) {
+      const box = code.closest('figure.highlight, div.highlighter-rouge') || code.parentElement;
+      const cls = [...code.classList, ...box.classList].find(c => c.startsWith('language-'));
+      if (!cls) continue;
+      const lang = cls.slice('language-'.length);
+      try {
+        box.outerHTML = await codeToHtml(code.textContent.replace(/\n$/, ''), {
+          lang: alias[lang] || lang,
+          theme: 'github-light',
+        });
+      } catch { /* unknown language: leave Rouge's output in place */ }
+    }
+  </script>
+</head>
