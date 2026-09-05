@@ -14,8 +14,4 @@ linkedin_username: djmaxus
 header_pages:
   - about.md
 
-mastodon:
-  - username: djmaxus
-    instance: https://www.buymeacoffee.com
-
 show_excerpts: true
