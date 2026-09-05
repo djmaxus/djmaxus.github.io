@@ -17,3 +17,5 @@ header_pages:
 mastodon:
   - username: djmaxus
     instance: https://www.buymeacoffee.com
+
+show_excerpts: true
