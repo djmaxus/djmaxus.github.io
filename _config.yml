@@ -5,7 +5,7 @@ plugins:
   - jekyll-seo-tag
 
 email: mail@djmaxus.dev
-# title: Max Elizarev
+title: djmaxus
 author: Max Elizarev
 
 github_username: djmaxus
