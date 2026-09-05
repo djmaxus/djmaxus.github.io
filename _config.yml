@@ -10,6 +10,15 @@ author: Max Elizarev
 
 github_username: djmaxus
 linkedin_username: djmaxus
+buymeacoffee_username: djmaxus
+
+links:
+  - name: Google Scholar
+    url: https://scholar.google.com/citations?user=qt24IhcAAAAJ
+  - name: ResearchGate
+    url: https://www.researchgate.net/profile/Maksim_Elizarev
+  - name: arXiv
+    url: http://arxiv.org/a/elizarev_m_1
 
 header_pages:
   - about.md
