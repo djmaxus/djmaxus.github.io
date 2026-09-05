@@ -1,8 +1,7 @@
 ---
 layout: post
+title: "Almost one year, dozens of interviews, zero job offers"
 ---
-
-# Almost one year, dozens of interviews, zero job offers
 
 This is how the job market has been for me so far.
 
