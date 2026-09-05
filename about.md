@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# Max Elizarev
-
 - [Imperial College London](https://profiles.imperial.ac.uk/m.elizarev) _Postdoctoral researcher_
 - ex. [Rock Flow Dynamics](https://rfdyn.com/) _Software Developer_
 - [Moscow Institute of Physics and Technology](https://www.mipt.ru/en) _Postgraduate, MSc, BSc_
