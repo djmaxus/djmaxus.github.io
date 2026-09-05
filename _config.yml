@@ -1,6 +1,15 @@
-title: djmaxus
-logo: /Logo-GitHub.png
 remote_theme: "jekyll/minima@v2.5.2"
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
+email: mail@djmaxus.dev
+title: Max Elizarev
+author: djmaxus
+
+github_username: djmaxus
+linkedin_username: djmaxus
+
+logo: /Logo-GitHub.png
 avatar: "Logo-GitHub.png"
