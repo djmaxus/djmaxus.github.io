@@ -4,8 +4,7 @@ title: "Almost one year, dozens of interviews, zero job offers"
 categories: update
 ---
 
-This is how the job market has been for me so far.
-
+This is how the job market has been for me so far.\
 And some of these patterns occurred more than once:
 
 ## They claim to sponsor UK Skilled Worker visas, but
