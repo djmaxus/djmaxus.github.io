@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Almost one year, dozens of interviews, zero job offers"
+categories: update
 ---
 
 This is how the job market has been for me so far.
