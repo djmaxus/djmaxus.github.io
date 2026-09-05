@@ -32,4 +32,4 @@ Text
 Text
 ```
 
-[![brainmade](black-logo.svg)](https://brainmade.org/)
+[![brainmade](/black-logo.svg)](https://brainmade.org/)
