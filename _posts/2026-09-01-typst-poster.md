@@ -13,11 +13,11 @@ title: "It's almost TOO easy to make a good poster with Typst"
 
   While any LLM can tell you a lot about all the pros and cons, I'm sharing my actual trial and error experience.
 
-```tex
-\section{Heading}
+{% highlight latex %}
+/section{Header}
 
 Text
-```
+{% endhighlight %}
 
 ```md
 ## Heading
@@ -31,4 +31,4 @@ Text
 Text
 ```
 
-[![brainmade](../black-logo.svg)](https://brainmade.org/)
+[![brainmade](black-logo.svg)](https://brainmade.org/)
