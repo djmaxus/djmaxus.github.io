@@ -8,13 +8,6 @@ permalink: /about/
 - ex. [Rock Flow Dynamics](https://rfdyn.com/) _Software Developer_
 - [Moscow Institute of Physics and Technology](https://www.mipt.ru/en) _Postgraduate, MSc, BSc_
 
-<img src="photo_2026-04-07_21-41-57.jpg" width=360 alt="logo">
-
-## Exceptionally Valuable Opinion
-
-or [EVO](index.md), my brand new blogpost series.
-
-[![brainmade](black-logo.svg)](https://brainmade.org/)
 
 ## Research
 
@@ -46,7 +39,6 @@ _Computational Geosciences (2021): 1-13._\
 
 ## Links
 
-- [LinkedIn](https://www.linkedin.com/in/djmaxus/)
 - [Google Scholar](https://scholar.google.com/citations?user=qt24IhcAAAAJ)
 - [ResearchGate](https://www.researchgate.net/profile/Maksim_Elizarev)
 - [arXiv](http://arxiv.org/a/elizarev_m_1)
