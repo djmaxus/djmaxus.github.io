@@ -7,4 +7,4 @@ layout: home
 Every single opinion on the internet is valuable.\
 Mine is exception. Ally
 
-Ergo, introducing my brand new blogpost series EVO
+Ergo, here comes my brand new blogpost series EVO
