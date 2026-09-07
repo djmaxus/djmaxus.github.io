@@ -6,14 +6,47 @@ categories: dev
 
 **TL;DR** I recently did so for the first time:
 [github:djmaxus/ecmor-2026/poster](https://github.com/djmaxus/ecmor-2026/tree/main/poster/).
-Turns out, with **Typst**, a modern typesetting tool, you won't even need any special package like `piece-of-posters`.
+Turns out, with **Typst**, a modern typesetting language and ecosystem, you won't even need any special package like `piece-of-posters`.
 After years of $\LaTeX$ and, forgive me, Microsoft Office, I don't want to go back.
 You might going to want to switch from $\LaTeX$, too, or skip it entirely.
 At least for serious work.
 
 ## Preamble
 
-Apparently, any LLM can tell you a lot about Typst: what it is, all the pros and cons compared to LaTeX and PowerPoint, you name it. Do not hesitate to ask your favourite model to briefly introduce you to the subject; maybe even let it read this post for you. I'll focus on what's left: my personal experience.
+Apparently, any LLM can tell you a lot about Typst: what it is, all the pros and cons compared to LaTeX and PowerPoint, you name it. Do not hesitate to ask your favourite model to briefly introduce you to the subject of scientific typesetting; maybe even let it read and interpret this post for you. I'll focus on what's left: my personal experience.
+
+## What changed for me after $\LaTeX$
+
+Like with Rust and older, more widely adopted programming languages like C++, many differences between newer Rust-written tools like Typst and mature counterparts are differences between legacy tools and those built with lessons learned from that legacy.
+
+Typesetting in Typst feels like a combination of clutter-free, extremely readable Markdown and a scripting language with variables and functions.
+
+### Consistent experience
+
+One developer made everything:
+- language
+- compiler
+- online editor
+- package registry
+
+### Ease of use
+
+- lightweight
+- cross-platform
+- available in package managers
+- one program for everything
+- centralised package registry
+
+```shell
+$ cat ./build.sh
+#!/usr/bin/env sh
+pdflatex main.tex # first run, main text only
+# then, based on the main text:
+biber main # compiles the bibliography
+makeglossaries main # compiles the glossary
+makeindex main.nlo -s nomencl.ist -o main.nls # compiles the nomenclature
+pdflatex main.tex # compiles everything together -> final main.pdf
+````
 
 - almost any content can go anywhere; this makes setting custom backgrounds provided by your conference very straightforward
 - piece-of-posters is useless;
