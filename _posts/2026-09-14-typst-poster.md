@@ -13,7 +13,7 @@ At least for serious work.
 
 ## Preamble
 
-While any LLM can tell you a lot about all the pros and cons of Typst compared to LaTeX and PowerPoint, I'd like to serve as a real-wold example.
+Apparently, any LLM can tell you a lot about Typst: what it is, all the pros and cons compared to LaTeX and PowerPoint, you name it. Do not hesitate to ask your favourite model to briefly introduce you to the subject; maybe even let it read this post for you. I'll focus on what's left: my personal experience.
 
 - almost any content can go anywhere; this makes setting custom backgrounds provided by your conference very straightforward
 - piece-of-posters is useless;
